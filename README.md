@@ -17,7 +17,7 @@ Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecim
 
 ## 🛠 Tecnologias e Ferramentas
 #### Linguagens de Programação:
-<img src="https://github.com/Carlos-CGSProjeto-AssistenteBusca/blob/main/img/python.png" height="60"/>
+<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/python.png" height="60"/>
 <img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/csharp.png" height="60"/>
 <img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/html.png" height="60"/>
 <img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/css.png" height="60"/>
