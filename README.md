@@ -17,12 +17,12 @@ Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecim
 
 ## 🛠 Tecnologias e Ferramentas
 #### Linguagens de Programação:
-<img src="https://github.com/HugoAPortela/Projeto-AssistenteBusca/blob/main/img/python.png" height="60"/>
-<img src="https://github.com/HugoAPortela/Projeto-AssistenteBusca/blob/main/img/csharp.png" height="60"/>
-<img src="https://github.com/HugoAPortela/Projeto-AssistenteBusca/blob/main/img/html.png" height="60"/>
-<img src="https://github.com/HugoAPortela/Projeto-AssistenteBusca/blob/main/img/css.png" height="60"/>
-<img src="https://github.com/HugoAPortela/Projeto-AssistenteBusca/blob/main/img/javascript.png" height="60"/>
-<img src="https://github.com/HugoAPortela/Projeto-AssistenteBusca/blob/main/img/java.png" height="60"/>
+<img src="https://github.com/Carlos-CGSProjeto-AssistenteBusca/blob/main/img/python.png" height="60"/>
+<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/csharp.png" height="60"/>
+<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/html.png" height="60"/>
+<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/css.png" height="60"/>
+<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/javascript.png" height="60"/>
+<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/java.png" height="60"/>
 
 
 #### Banco de Dados:
@@ -110,25 +110,6 @@ Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecim
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
 ---
-## 📊 GitHub Estatísticas
-[![trophy](https://github-profile-trophy.vercel.app/?username=HugoAPortela&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
-
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=HugoAPortela-cgs&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAPortela-cgs&layout=compact&theme=radical&custom_title=Languages"/></td>
-  </tr>
-</table>
-
-<div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HugoAPortela}/count.svg" /></p> 
-</div>
 
 ---
 "Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos!"
