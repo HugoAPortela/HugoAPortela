@@ -1,6 +1,6 @@
 <div align="center">
  
- # 👨‍💻 Hugo Andrades Portela - HugoAPortela  <img src="Capa2025.png">
+ # 👨‍💻 Hugo Andrades Portela <img src="Capa2025.png">
  
 ### Bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por Desenvolvimento Fullstack e tecnologia.
 
