@@ -112,7 +112,7 @@ Atualmente, me especializo como Desenvolvedor Full Stack , aplicando em conhecim
 ---
 
 ---
-"Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos!"
+"Desde 2018 e Formando em 2020, venho aprofundando meus estudos em desenvolvimento de software e me apaixonei pela possibilidade de criar soluções do zero, utilizando apenas código . Além disso, possuo experiência com Inteligência Artificial , explorando soluções com Microsoft Copilot, Google Gemini e ChatGPT para automação, análise de dados e otimização de processos. Desenvolvedor Full Stack , aplicando em conhecimentos Python, C#, SQL, JavaScript, React.js e .NET !"
 </div>
 
 
